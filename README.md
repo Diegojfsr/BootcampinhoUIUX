@@ -37,9 +37,7 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
 
 <p dir="auto">
 <em>
-  Projeto desenvolvido utilizando a ajuda e os conhecimentos da , 
-  <a href="//maiane.com.br/sobre-mim/"> Maiane Gabriele <a href="https://www.dio.me/"> 
-    <strong>  Digital Innovation One ❤️ </strong> 
-</a>
+  Projeto desenvolvido utilizando a ajuda e os conhecimentos da Product Designer (UI/UX), 
+  <a href="//maiane.com.br/sobre-mim/"> <strong>  Maiane Gabriele  💛 </strong></a>
 </em>
 </p>
