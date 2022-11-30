@@ -19,35 +19,35 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
 <ul dir="auto">
 <li> 
  Módulo 1 – Apresentação do Bootcampinho UI/UX Design.
- <br> Apresentando o Curso. <a href="https://"> Acessar </a>
- <br> Como acompanhar o curso. <a href="https://"> Acessar </a>
+ <br> Apresentando o Curso. <a href="https://maiane.com.br/apresentando-bootcampinho-ui-ux-design"> Acessar </a>
+ <br> Como acompanhar o curso. <a href="https://maiane.com.br/como-acompanhar-bootcampinho-ui-ux-design"> Acessar </a>
 </li>
   
 <li> 
   Módulo 2 – Começando um projeto.
- <br> O que fazer antes do Design? <a href="https://"> Acessar </a>
- <br> O que é Design Thinking? <a href="https://"> Acessar </a>
+ <br> O que fazer antes do Design? <a href="https://maiane.com.br/antes-bootcampinho-ui-ux-design"> Acessar </a>
+ <br> O que é Design Thinking? <a href="https://maiane.com.br/design-thinking-bootcampinho-ui-ux-design"> Acessar </a>
 </li>
   
   
 <li> 
   Módulo 3 – Descoberta (Discovery).
- <br> Descoberta (discovery): o que é? <a href="https://"> Acessar </a>
- <br> Descoberta (discovery): como aplicar? <a href="https://"> Acessar </a>
+ <br> Descoberta (discovery): o que é? <a href="https://maiane.com.br/descoberta-discovery-bootcampinho-ui-ux-design"> Acessar </a>
+ <br> Descoberta (discovery): como aplicar? <a href="https://maiane.com.br/como-aplicar-descoberta-bootcampinho-ui-ux-design"> Acessar </a>
 </li>
   
   
 <li> 
   Módulo 4 – Definição (Define).
- <br> Definição (define): o que é? <a href="https://"> Acessar </a>
- <br> Definição (define): como aplicar? <a href="https://"> Acessar </a>
+ <br> Definição (define): o que é? <a href="https://maiane.com.br/definicao-bootcampinho-ui-ux-design"> Acessar </a>
+ <br> Definição (define): como aplicar? <a href="https://maiane.com.br/como-aplicar-definicao-bootcampinho-ui-ux-design"> Acessar </a>
 </li>
   
   
 <li> 
   Módulo 5 – Ideação (Ideate).
- <br> Ideação (ideate): o que é? <a href="https://"> Acessar </a>
- <br> Ideação (ideate): como aplicar? <a href="https://"> Acessar </a>
+ <br> Ideação (ideate): o que é? <a href="https://maiane.com.br/ideacao-bootcampinho-ui-ux-design"> Acessar </a>
+ <br> Ideação (ideate): como aplicar? <a href="https://maiane.com.br/ideacao-como-aplicar-bootcampinho-ui-ux-design"> Acessar </a>
 </li>
   
   
