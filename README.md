@@ -1,7 +1,3 @@
-# BootcampinhoUIUX
-Repositório criado para documentar todo o meu passo a passo, projetos, pesquisas, ideias e claro codigos, desenvolvidos durante o Bootcampinho Gratuito UI/UX Design da Maiane Gabriele.
-
-
 
 <h1> 
 Sejam bem-vindos!!! <br>
@@ -13,7 +9,6 @@ Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas
 </h4>
 
 
-
 <h2> 🎯 Objetivo </h2>
 O Bootcampinho UI/UX Design tem como objetivo, ser um ponto de partida e ajudar os primeiros passos de quer aprender UI/UX Design de forma gratuita.
 Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
@@ -22,11 +17,15 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
-<li> Módulo I - Conteúdo de Abertura. <a href="https://www.notion.so/diegojfsr/M-dulo-I-Conte-do-de-Abertura-0cbc8147c5564a28bdd283c4d8cf3730"> Acessar </a></li>
-<li> Módulo II - HTML/CSS3. <a href="https://www.notion.so/diegojfsr/M-dulo-II-HTML-CSS3-d78ffa4ae3ef47eeb66ddc95322c4d7c"> Acessar </a></li>
-<li> Módulo III - Javascript. <a href="https://www.notion.so/diegojfsr/M-dulo-III-Javascript-e6e0393753964deb9abc064a233efbcd"> Acessar </a></li>
-<li> Módulo IV - ReactJS. <a href="https://www.notion.so/diegojfsr/M-dulo-IV-ReactJS-ed19afbfddc14805816a6e052391af9e"> Acessar </a></li>
-<li> Módulo V - JAVA/SpringBoot. <a href="https://www.notion.so/diegojfsr/M-dulo-V-JAVA-SpringBoot-0223958e7b1c470ca3cb71b601606eb3"> Acessar </a></li>
+<li> Módulo 1 – Apresentação do Bootcampinho UI/UX Design. <a href="https://"> Acessar </a></li>
+<li> Módulo 2 – Começando um projeto. <a href="https://"> Acessar </a></li>
+<li> Módulo 3 – Descoberta (Discovery). <a href="https://"> Acessar </a></li>
+<li> Módulo 4 – Definição (Define). <a href="https://"> Acessar </a></li>
+<li> Módulo 5 – Ideação (Ideate). <a href="https://"> Acessar </a></li>
+<li> Módulo 6 – Prototipação (Prototype). <a href="https://"> Acessar </a></li>
+<li> Módulo 7 – Testes. <a href="https://"> Acessar </a></li>
+<li> Módulo 8 – Finalização. <a href="https://"> Acessar </a></li>
+
 </ul>
 
 
