@@ -24,6 +24,7 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
   <li>Módulo 8 – Finalização.<a href="https:// "> Acessar </a></li>
 </ul>
 
+<h2 dir="auto"> 🔗 Links Úteis </h2>
 <p dir="auto">
 <em>
   📝 Atividades desenvolvidas durante o Curso: 
