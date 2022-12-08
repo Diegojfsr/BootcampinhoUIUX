@@ -32,9 +32,10 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
 
 <p dir="auto">
 <em>
-  🔶 Projeto desenvolvido utilizando a ajuda e os conhecimentos da Product Designer (UI/UX), 
-  <a href="//maiane.com.br/sobre-mim/"> <strong>  Maiane Gabriele. </strong></a>
+  🔶 Meu painel de organização do Curso: 
+  <a href="https://www.notion.so/diegojfsr/MyPainelOrganizational-aaecde3401404e2899f10e3eed94c206"> <strong>  Acessar </strong></a>
 </em>
+<br>
 <em>
   🔶 Projeto desenvolvido utilizando a ajuda e os conhecimentos da Product Designer (UI/UX), 
   <a href="//maiane.com.br/sobre-mim/"> <strong>  Maiane Gabriele. </strong></a>
