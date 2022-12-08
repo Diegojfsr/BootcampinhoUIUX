@@ -8,13 +8,9 @@ Esse é o meu repositorio do Bootcampinho UI/UX Design.
 Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas, ideias e claro códigos, desenvolvidos durante o Bootcampinho Gratuito UI/UX Design da Maiane Gabriele. 
 </h4>
 
-
-
 <h2> 🎯 Objetivo </h2>
 O Bootcampinho UI/UX Design tem como objetivo, ser um ponto de partida e ajudar os primeiros passos de quer aprender UI/UX Design de forma gratuita.
 Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
-
-
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
@@ -35,6 +31,10 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
 
 
 <p dir="auto">
+<em>
+  🔶 Projeto desenvolvido utilizando a ajuda e os conhecimentos da Product Designer (UI/UX), 
+  <a href="//maiane.com.br/sobre-mim/"> <strong>  Maiane Gabriele. </strong></a>
+</em>
 <em>
   🔶 Projeto desenvolvido utilizando a ajuda e os conhecimentos da Product Designer (UI/UX), 
   <a href="//maiane.com.br/sobre-mim/"> <strong>  Maiane Gabriele. </strong></a>
