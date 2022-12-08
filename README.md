@@ -33,7 +33,7 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
 <p dir="auto">
 <em>
   🔶 Passo a passo durante o Curso: 
-  <a href=" https://www.notion.so/diegojfsr/MyProject-b41f09535a754788a06020eb71f9563b"> <strong>  Acessar </strong></a>
+  <a href="https://www.notion.so/diegojfsr/MyProject-b41f09535a754788a06020eb71f9563b"> <strong>  Acessar </strong></a>
 </em>
 <br>
 <em>
