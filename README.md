@@ -26,7 +26,7 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
 
 <p dir="auto">
 <em>
-  📝 Passo a passo das atividades desenvolvidas durante o Curso: 
+  📝 Atividades desenvolvidas durante o Curso: 
   <a href="https://www.notion.so/diegojfsr/MyProject-b41f09535a754788a06020eb71f9563b"> <strong>  Acessar </strong></a>
 </em>
 <br>
