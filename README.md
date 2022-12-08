@@ -18,62 +18,14 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
-<li> 
- Módulo 1 – Apresentação do Bootcampinho UI/UX Design.
- <br> Apresentando o Curso. <a href="https://maiane.com.br/apresentando-bootcampinho-ui-ux-design"> Acessar </a>
- <br> Como acompanhar o curso. <a href="https://maiane.com.br/como-acompanhar-bootcampinho-ui-ux-design"> Acessar </a>
-</li>
-  
-<li> 
-  Módulo 2 – Começando um projeto.
- <br> O que fazer antes do Design? <a href="https://maiane.com.br/antes-bootcampinho-ui-ux-design"> Acessar </a>
- <br> O que é Design Thinking? <a href="https://maiane.com.br/design-thinking-bootcampinho-ui-ux-design"> Acessar </a>
-</li>
-  
-  
-<li> 
-  Módulo 3 – Descoberta (Discovery).
- <br> Descoberta (discovery): o que é? <a href="https://maiane.com.br/descoberta-discovery-bootcampinho-ui-ux-design"> Acessar </a>
- <br> Descoberta (discovery): como aplicar? <a href="https://maiane.com.br/como-aplicar-descoberta-bootcampinho-ui-ux-design"> Acessar </a>
-</li>
-  
-  
-<li> 
-  Módulo 4 – Definição (Define).
- <br> Definição (define): o que é? <a href="https://maiane.com.br/definicao-bootcampinho-ui-ux-design"> Acessar </a>
- <br> Definição (define): como aplicar? <a href="https://maiane.com.br/como-aplicar-definicao-bootcampinho-ui-ux-design"> Acessar </a>
-</li>
-  
-  
-<li> 
-  Módulo 5 – Ideação (Ideate).
- <br> Ideação (ideate): o que é? <a href="https://maiane.com.br/ideacao-bootcampinho-ui-ux-design"> Acessar </a>
- <br> Ideação (ideate): como aplicar? <a href="https://maiane.com.br/ideacao-como-aplicar-bootcampinho-ui-ux-design"> Acessar </a>
-</li>
-  
-  
-<li> 
-  Módulo 6 – Prototipação (Prototype).
- <br> Prototipação (prototype): o que é? <a href="https://"> Acessar </a>
- <br> Prototipação (prototype): usabilidade e composição <a href="https://"> Acessar </a>
- <br> Prototipação (prototype): tipografia, cores e mais! <a href="https://"> Acessar </a>
- <br> Prototipação (prototype): acessibilidade <a href="https://"> Acessar </a>
- <br> Prototipação (prototype): como aplicar? <a href="https://"> Acessar </a>
-</li>
-  
-  
-<li> 
-  Módulo 7 – Testes.
- <br> Teste de design: o que é? <a href="https://"> Acessar </a>
- <br> Teste de design: como aplicar? <a href="https://"> Acessar </a>
-</li>
-  
-  
-<li> 
-  Módulo 8 – Finalização.
- <br> Terminei o Bootcampinho UI/UX Design. E agora? <a href="https://"> Acessar </a>
-</li>
-
+  <li>Módulo 1 – Apresentação do Bootcampinho UI/UX Design.<a href="https:// "> Acessar </a></li>
+  <li>Módulo 2 – Começando um projeto.<a href="https:// "> Acessar </a></li>
+  <li>Módulo 3 – Descoberta (Discovery).<a href="https:// "> Acessar </a></li>
+  <li>Módulo 4 – Definição (Define).<a href="https:// "> Acessar </a></li>
+  <li>Módulo 5 – Ideação (Ideate).<a href="https:// "> Acessar </a></li>
+  <li>Módulo 6 – Prototipação (Prototype).<a href="https:// "> Acessar </a></li>
+  <li>Módulo 7 – Testes.<a href="https:// "> Acessar </a></li>
+  <li>Módulo 8 – Finalização.<a href="https:// "> Acessar </a></li>
 </ul>
 
 
