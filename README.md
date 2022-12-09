@@ -27,13 +27,13 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
 <h2 dir="auto"> 🔗 Links Úteis </h2>
 <p dir="auto">
 <em>
-  📝 Atividades desenvolvidas durante o Curso: 
-  <a href="https://www.notion.so/diegojfsr/MyProject-b41f09535a754788a06020eb71f9563b"> <strong>  Acessar </strong></a>
+  📝 Lista de Atividades
+  <a href="https://www.notion.so/diegojfsr/ListaAtividades-66515455bc4b429da1884a9665f3d880"> <strong>  Acessar </strong></a>
 </em>
 <br>
 <em>
-  📊 Meu painel de organização do Curso: 
-  <a href="https://www.notion.so/diegojfsr/MyPainelOrganizational-aaecde3401404e2899f10e3eed94c206"> <strong>  Acessar </strong></a>
+  📊 Painel de Atividades.
+  <a href="https://www.notion.so/diegojfsr/PainelAtividades-18d9d8a9ab9148fba5ce8454e3c66a1d"> <strong>  Acessar </strong></a>
 </em>
 </p>
 
