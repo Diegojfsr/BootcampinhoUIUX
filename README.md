@@ -25,6 +25,10 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
   <li>Módulo 8 – Finalização.<a href="https:// "> Acessar </a></li>
 </ul>
 
+<h2 dir="auto"> 📝 Lista de Atividades </h2>
+<ul dir="auto">
+  <a href="https://www.notion.so/diegojfsr/ListaAtividades-66515455bc4b429da1884a9665f3d880"> <strong>  Acessar </strong></a>
+</ul>
 <h2 dir="auto"> 🔗 Links Úteis </h2>
 <p dir="auto">
 <em>
