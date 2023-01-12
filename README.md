@@ -14,16 +14,15 @@
 
 <h2 dir="auto"> 🚦 Guia </h2>
 Estes são os modulos trabalhados durnate o BootcampinhoUiUx.<br>
-Fique a vontade para acessa-los.
 <ul dir="auto">
-  <li>Módulo 1 – Apresentação do Bootcampinho UI/UX Design.<a href="https:// "> Acessar </a></li>
-  <li>Módulo 2 – Começando um projeto.<a href="https:// "> Acessar </a></li>
-  <li>Módulo 3 – Descoberta (Discovery).<a href="https:// "> Acessar </a></li>
-  <li>Módulo 4 – Definição (Define).<a href="https:// "> Acessar </a></li>
-  <li>Módulo 5 – Ideação (Ideate).<a href="https:// "> Acessar </a></li>
-  <li>Módulo 6 – Prototipação (Prototype).<a href="https:// "> Acessar </a></li>
-  <li>Módulo 7 – Testes.<a href="https:// "> Acessar </a></li>
-  <li>Módulo 8 – Finalização.<a href="https:// "> Acessar </a></li>
+  <li>Módulo 1 – Apresentação do Bootcampinho UI/UX Design</li>
+  <li>Módulo 2 – Começando um projeto.</li>
+  <li>Módulo 3 – Descoberta (Discovery).</li>
+  <li>Módulo 4 – Definição (Define).</li>
+  <li>Módulo 5 – Ideação (Ideate).</li>
+  <li>Módulo 6 – Prototipação (Prototype).</li>
+  <li>Módulo 7 – Testes.</li>
+  <li>Módulo 8 – Finalização.</li>
 </ul>
 
 <h2 dir="auto"> 📝 Lista de Atividades </h2>
