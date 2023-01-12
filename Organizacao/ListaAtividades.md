@@ -1,4 +1,5 @@
-Este área é reservada para as atividades desenvolvidas por mim durante toda a jornada do bootcampinho UxUi.
+Este área é reservada para as atividades desenvolvidas por mim durante toda a jornada do bootcampinho UxUi.<br>
+As atividades estão separadas por Módulos.
 
 <h2 dir="auto"> 📝 Lista de Atividades </h2>
 <h3 dir="auto"> 🔶 Módulo 1 | Atividades 1.1 </h3>
