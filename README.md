@@ -34,7 +34,7 @@ As atividades estão separadas por Módulos.
 
   
 <h2 dir="auto"> 🔗 Materiais extras </h2>
-Este área é reservada para os Materiais Extras, Disponibilizado com 💛por, <a href="//maiane.com.br/sobre-mim/"> <strong>  Maiane Gabriele. </strong></a>
+Este área é reservada para os Materiais Extras, Disponibilizado com 💛por, <a href="//maiane.com.br/sobre-mim/"> <strong>  Maiane Gabriele. </strong></a><br>
 Os materiais estão separadas por Módulos.
 <ul dir="auto">
   <li> 🔗 Materiais extras.<a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/Organizacao/MaterialExtra.md "> Acessar </a></li>
