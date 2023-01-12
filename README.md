@@ -6,7 +6,7 @@ Esse é o meu repositorio do Bootcampinho UI/UX Design.
 
 
 <h4> 
-Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas, ideias e claro códigos, desenvolvidos durante o Bootcampinho Gratuito UI/UX Design da Maiane Gabriele. 
+Repositorio criado para documentar todo o meu passo a passo, projetos, pesquisas, ideias e claro códigos, desenvolvidos durante o Bootcampinho Gratuito UI/UX Design Disponibilizado com 💛por, <a href="//maiane.com.br/sobre-mim/"> <strong>  Maiane Gabriele. </strong></a>
 </h4>
 
 <h2> 🎯 Objetivo </h2>
