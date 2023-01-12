@@ -26,23 +26,53 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
 </ul>
 
 <h2 dir="auto"> 📝 Lista de Atividades </h2>
-<ul dir="auto"> 
-<h3 dir="auto"> 🔶 Atividades Módulo 1 </h3>
-<h5>🐮  Desafio do Alfred </h5>
-<li>Escolher um projetos para fazer durante o curso.</li>
-<h5>📱 Desafio de social </h5>
-<li>Postar nas redes sociais que está iniciando o Bootcampinho UI UX.</li>
-<li>Utilizar a #BootcampinhoUIUX.</li>
-
-<h3 dir="auto"> 🔶 Atividades Módulo 2 </h3>
-<h5>🐮  Desafio do Alfred </h5>
-<li>Acessar a página do Bootcampinho e navegar entre as aulas.</li>
-<li>Escolher um local para fazer anotações e organozação de materiais.o.</li>
-
-
-
-
+<h3 dir="auto"> 🔶 Módulo 1 | Atividades 1.1 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Assistir ao vídeo sobre diferenças entre UI/UX Design.<br>
+  - Conferir os projetos no Behance.<br>
+  - Identificar etapas relacionadas à Interface do Usuários (UI).<br>
+  - Identificar etapas relacionadas à Experiência do Usuário (UX).<br>
+  <li>📱 Desafio de social </li>
+  - Postar nas redes sociais que está iniciando o Bootcampinho UI UX.<br>
+  - Utilizar a #BootcampinhoUIUX.<br> 
 </ul>
+<h3 dir="auto"> 🔶 Módulo 1 | Atividades 1.2 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Acessar a página do Bootcampinho e navegar entre as aulas.<br>
+  - Escolher um local para fazer anotações e organozação de materiais.o.<br>
+</ul>
+<h3 dir="auto"> 🔶 Módulo 2 | Atividades 2.1 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Escolher um projeto para fazer durante o curso.<br>
+</ul>
+<h3 dir="auto"> 🔶 Módulo 2 | Atividades 2.2 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Criar o briefing do seu projeto.<br>
+  - Montar o escopo do projeto, como prazos, limitações e outros.<br>
+</ul>
+<h3 dir="auto"> 🔶 Módulo 3 | Atividades 3.1 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Aplicar pelo menos dois métodos ou ferramentas de Descoberta (Discovery).<br>
+  - Conhecer tudo que for possível sobre o problema.<br>
+</ul>
+<h3 dir="auto"> 🔶 Módulo 3 | Atividades 3.2 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Aplicar um terceiro (ou mais) métodos ou ferramentas de pesquisa de descoberta ao projeto.<br>
+</ul>
+<h3 dir="auto"> 🔶 Módulo 4 | Atividades 4.1 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Organizar os dados das pesquisas a fim de começar a definição do problema.<br>
+  - Listar os tópicos e principais descobertas das pesquisas.<br>
+</ul>
+
+
 
   
   
