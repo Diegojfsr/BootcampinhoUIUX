@@ -26,49 +26,15 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
 </ul>
 
 <h2 dir="auto"> 📝 Lista de Atividades </h2>
-<h3 dir="auto"> 🔶 Módulo 1 | Atividades 1.1 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 1 | Atividades 1.2 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 2 | Atividades 2.1 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 2 | Atividades 2.2 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 3 | Atividades 3.1 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 3 | Atividades 3.2 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 4 | Atividades 4.1 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 4 | Atividades 4.2 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 4 | Atividades 4.3 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 5 | Atividades 5.1 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 5 | Atividades 5.2 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 6 | Atividades 6.1 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 6 | Atividades 6.2 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 6 | Atividades 6.3 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 6 | Atividades 6.4 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 6 | Atividades 6.5 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 7 | Atividades 7.1 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 7 | Atividades 7.2 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 8 | Atividades 8.1 </h3>
+<ul dir="auto">
+  <li>📝 Lista de Atividades.<a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/Organizacao/ListaAtividades.md"> Acessar </a></li>
+</ul>
 
   
 <h2 dir="auto"> 🔗 Materiais extras </h2>
-<h3 dir="auto"> 🔶 Módulo 1 | Material Extra 1.1 </h3>
-
-<h3 dir="auto"> 🔶 Módulo 1 | Material Extra 1.2 </h3>
+<ul dir="auto">
+  <li> 🔗 Materiais extras.<a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/Organizacao/MaterialExtra.md "> Acessar </a></li>
+</ul>
 
 
 
