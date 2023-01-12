@@ -111,8 +111,31 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
   - Após selecionar os designs, recriar três telas em uma ferramenta de prototipação preferida.<br>
   - Durante a criação tentar identificar: Tamanhos de tipografia utilizados? Cores e elementos e padrões utilizados? <br>
 </ul>
-
-
+<h3 dir="auto"> 🔶 Módulo 5 | Atividades 6.2 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Separar modelos de páginas iniciais de websites e identificar: Princípios de alinhamento, contraste, repetição, proximidade,usabilidade, padrões e elementos.<br>
+</ul>
+<h3 dir="auto"> 🔶 Módulo 5 | Atividades 6.3 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Criar um guia de estilos para o projeto: Estilo de imagens, família de ícones, cores e tipografia.<br>
+</ul>
+<h3 dir="auto"> 🔶 Módulo 5 | Atividades 6.4 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Revisar o guia de estilos criado e criar uma ou duas telas do projeto.<br>
+  - Verificar se as telas são acessíveis.<br>
+  - Conferir contraste, tamanho de tipografia, responsividade e links.<br>
+</ul>
+<h3 dir="auto"> 🔶 Módulo 5 | Atividades 6.5 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Criar todas as telas que forem necessárias para o projeto.<br>
+  - Utilizar componetização.<br>
+  - Manter acessibilidade e padrões entre as telas.<br>
+  - Se preciso, aumentar ou alterar cores/títulos/estilos do seu projeto. <br>
+</ul>
   
   
 <h2 dir="auto"> 🔗 Materiais extras </h2>
