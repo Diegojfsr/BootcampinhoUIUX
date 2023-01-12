@@ -27,8 +27,22 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
 
 <h2 dir="auto"> 📝 Lista de Atividades </h2>
 <ul dir="auto">
-  <li> Atividade 1 - <a href="https://"> <strong>  Acessar </strong></a> </li>
-</ul>
+<li><em>  Atividades Módulo 1
+🔶Desafio do Alfred
+- Escolher um projetos para fazer durante o curso.
+
+🔶Desafio de social
+- Postar nas redes sociais que está iniciando o Bootcampinho UI UX.
+- Utilizar a #BootcampinhoUIUX.
+</em></li>
+<li><em>  Atividades Módulo 2
+🔶Desafio do Alfred
+- Acessar a página do Bootcampinho e navegar entre as aulas.
+- Escolher um local para fazer anotações e organozação de materiais.o.
+</em></li>
+
+  
+  
 <h2 dir="auto"> 🔗 Materiais extras </h2>
 <ul dir="auto">
   <li> Material 1 - <a href="https://"> <strong>  Acessar </strong></a> </li>
