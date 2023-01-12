@@ -27,20 +27,12 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
 
 <h2 dir="auto"> 📝 Lista de Atividades </h2>
 <ul dir="auto">
-  <a href="https://www.notion.so/diegojfsr/ListaAtividades-66515455bc4b429da1884a9665f3d880"> <strong>  Acessar </strong></a>
+  <li> Atividade 1 - <a href="https://"> <strong>  Acessar </strong></a> </li>
 </ul>
-<h2 dir="auto"> 🔗 Links Úteis </h2>
-<p dir="auto">
-<em>
-  📝 Lista de Atividades
-  <a href="https://www.notion.so/diegojfsr/ListaAtividades-66515455bc4b429da1884a9665f3d880"> <strong>  Acessar </strong></a>
-</em>
-<br>
-<em>
-  📊 Painel de Atividades.
-  <a href="https://www.notion.so/diegojfsr/PainelAtividades-18d9d8a9ab9148fba5ce8454e3c66a1d"> <strong>  Acessar </strong></a>
-</em>
-</p>
+<h2 dir="auto"> 🔗 Materiais extras </h2>
+<ul dir="auto">
+  <li> Material 1 - <a href="https://"> <strong>  Acessar </strong></a> </li>
+</ul>
 
 
 
