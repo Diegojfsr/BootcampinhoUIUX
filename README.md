@@ -53,6 +53,8 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
   <li>🐮  Desafio do Alfred </li>
   - Criar o briefing do seu projeto.<br>
   - Montar o escopo do projeto, como prazos, limitações e outros.<br>
+   <li>📱 Desafio de social </li>
+  - Compartilhar nas redes sociais como utilizo o Design Thinking.<br>
 </ul>
 <h3 dir="auto"> 🔶 Módulo 3 | Atividades 3.1 </h3>
 <ul dir="auto">
@@ -86,6 +88,21 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
   - Entender se o problema escolhido para resolver está bem definido.<br>
    <li>📱 Desafio de social </li>
   - Compartilhar uma foto ou vídeo de um ou mais processos utilizados durante o Bootcampinho.<br> 
+</ul>
+<h3 dir="auto"> 🔶 Módulo 5 | Atividades 5.1 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Aplicar ao menos duas ferramentas ou métodos para pensar novas ideias.<br>
+  - Criar fluxos de usuários.
+  - Fazer muitos rabiscos e wireframes.
+  - Fazer brainstorms criativos.
+  - Explorar o quanto quiser explorar.
+</ul>
+<h3 dir="auto"> 🔶 Módulo 5 | Atividades 5.2 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Escolher uma (ou até três) soluções para o problema, de acordo com os rascunhos e ideias esboçadas.<br>
+  - Após escolher a(s) solução(ões) fazer um wireframe(s) de média ou alta fidelidade.<br>
 </ul>
 
 
