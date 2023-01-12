@@ -104,31 +104,31 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
   - Escolher uma (ou até três) soluções para o problema, de acordo com os rascunhos e ideias esboçadas.<br>
   - Após escolher a(s) solução(ões) fazer um wireframe(s) de média ou alta fidelidade.<br>
 </ul>
-<h3 dir="auto"> 🔶 Módulo 5 | Atividades 6.1 </h3>
+<h3 dir="auto"> 🔶 Módulo 6 | Atividades 6.1 </h3>
 <ul dir="auto">
   <li>🐮  Desafio do Alfred </li>
   - Selecionar de 1 a 3 designs já existentes, como exemplos.<br>
   - Após selecionar os designs, recriar três telas em uma ferramenta de prototipação preferida.<br>
   - Durante a criação tentar identificar: Tamanhos de tipografia utilizados? Cores e elementos e padrões utilizados? <br>
 </ul>
-<h3 dir="auto"> 🔶 Módulo 5 | Atividades 6.2 </h3>
+<h3 dir="auto"> 🔶 Módulo 6 | Atividades 6.2 </h3>
 <ul dir="auto">
   <li>🐮  Desafio do Alfred </li>
   - Separar modelos de páginas iniciais de websites e identificar: Princípios de alinhamento, contraste, repetição, proximidade,usabilidade, padrões e elementos.<br>
 </ul>
-<h3 dir="auto"> 🔶 Módulo 5 | Atividades 6.3 </h3>
+<h3 dir="auto"> 🔶 Módulo 6 | Atividades 6.3 </h3>
 <ul dir="auto">
   <li>🐮  Desafio do Alfred </li>
   - Criar um guia de estilos para o projeto: Estilo de imagens, família de ícones, cores e tipografia.<br>
 </ul>
-<h3 dir="auto"> 🔶 Módulo 5 | Atividades 6.4 </h3>
+<h3 dir="auto"> 🔶 Módulo 6 | Atividades 6.4 </h3>
 <ul dir="auto">
   <li>🐮  Desafio do Alfred </li>
   - Revisar o guia de estilos criado e criar uma ou duas telas do projeto.<br>
   - Verificar se as telas são acessíveis.<br>
   - Conferir contraste, tamanho de tipografia, responsividade e links.<br>
 </ul>
-<h3 dir="auto"> 🔶 Módulo 5 | Atividades 6.5 </h3>
+<h3 dir="auto"> 🔶 Módulo 6 | Atividades 6.5 </h3>
 <ul dir="auto">
   <li>🐮  Desafio do Alfred </li>
   - Criar todas as telas que forem necessárias para o projeto.<br>
@@ -139,16 +139,28 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
   - Compartilhar nas redes sociais a resposta para à pergunta: Design de interface (UI Design) é só “telinha bonita”? Sim? Não? Por quê?.<br>
   - Compartilhar um pouco sobre o conhecimento em tipografia, usabilidade e acessibilidade.<br> 
 </ul>
-<h3 dir="auto"> 🔶 Módulo 6 | Atividades 6.1 </h3>
+<h3 dir="auto"> 🔶 Módulo 7 | Atividades 7.1 </h3>
 <ul dir="auto">
   <li>🐮  Desafio do Alfred </li>
-  - Criar todas as telas que forem necessárias para o projeto.<br>
-  - Utilizar componetização.<br>
-  - Manter acessibilidade e padrões entre as telas.<br>
-  - Se preciso, aumentar ou alterar cores/títulos/estilos do seu projeto. <br>
-   <li>📱 Desafio de social </li>
-  - Compartilhar nas redes sociais a resposta para à pergunta: Design de interface (UI Design) é só “telinha bonita”? Sim? Não? Por quê?.<br>
-  - Compartilhar um pouco sobre o conhecimento em tipografia, usabilidade e acessibilidade.<br> 
+  - Analizar as telas criadas, e responder: <br>
+    1-O que é imprescindível saber para “lançar” este produto?<br>
+    2-Quais são as tarefas mais importantes que o usuário precisa conseguir realizar?<br>
+    3-O que precisa ser testado para o produto funcionar?<br>
+  - Após responder essas perguntas, escrever em uma frase, duas ou três tarefas que precisam ser validadas.<br>
+</ul>
+<h3 dir="auto"> 🔶 Módulo 7 | Atividades 7.2 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Selecionar 3 a 5 pessoas dentro do público alvo.<br>
+  - Fazer testes de usabilidade com esses usuários.<br>
+  - Análiszar as respostas e verificar as possiveis melhoras.<br>
+  - Fazer os ajustes necessários.<br>
+</ul>
+<h3 dir="auto"> 🔶 Módulo 8 | Atividades 8.1 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Escrever um estudo de caso sobre o projeto.<br>
+  - Usar o projeto e montar um portifolio.<br>
 </ul>
   
 <h2 dir="auto"> 🔗 Materiais extras </h2>
