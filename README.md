@@ -93,16 +93,23 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
 <ul dir="auto">
   <li>🐮  Desafio do Alfred </li>
   - Aplicar ao menos duas ferramentas ou métodos para pensar novas ideias.<br>
-  - Criar fluxos de usuários.
-  - Fazer muitos rabiscos e wireframes.
-  - Fazer brainstorms criativos.
-  - Explorar o quanto quiser explorar.
+  - Criar fluxos de usuários.<br>
+  - Fazer muitos rabiscos e wireframes.<br>
+  - Fazer brainstorms criativos.<br>
+  - Explorar o quanto quiser explorar.<br>
 </ul>
 <h3 dir="auto"> 🔶 Módulo 5 | Atividades 5.2 </h3>
 <ul dir="auto">
   <li>🐮  Desafio do Alfred </li>
   - Escolher uma (ou até três) soluções para o problema, de acordo com os rascunhos e ideias esboçadas.<br>
   - Após escolher a(s) solução(ões) fazer um wireframe(s) de média ou alta fidelidade.<br>
+</ul>
+<h3 dir="auto"> 🔶 Módulo 5 | Atividades 6.1 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Selecionar de 1 a 3 designs já existentes, como exemplos.<br>
+  - Após selecionar os designs, recriar três telas em uma ferramenta de prototipação preferida.<br>
+  - Durante a criação tentar identificar: Tamanhos de tipografia utilizados? Cores e elementos e padrões utilizados? <br>
 </ul>
 
 
