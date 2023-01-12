@@ -71,7 +71,22 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
   - Organizar os dados das pesquisas a fim de começar a definição do problema.<br>
   - Listar os tópicos e principais descobertas das pesquisas.<br>
 </ul>
-
+<h3 dir="auto"> 🔶 Módulo 4 | Atividades 4.2 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Definir objetivos e problemas centrais do projeto.<br>
+  - Aplicar ao menos mais uma ou duas ferramentas ou métodos de Definição.<br>
+  - Entender se o problema escolhido para resolver está bem definido.<br>
+</ul>
+<h3 dir="auto"> 🔶 Módulo 4 | Atividades 4.3 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Definir objetivos e problemas centrais do projeto.<br>
+  - Aplicar ao menos mais uma ou duas ferramentas ou métodos de Definição.<br>
+  - Entender se o problema escolhido para resolver está bem definido.<br>
+   <li>📱 Desafio de social </li>
+  - Compartilhar uma foto ou vídeo de um ou mais processos utilizados durante o Bootcampinho.<br> 
+</ul>
 
 
   
