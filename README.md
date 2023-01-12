@@ -26,12 +26,16 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
 </ul>
 
 <h2 dir="auto"> 📝 Lista de Atividades </h2>
+Este área é reservada para as atividades desenvolvidas por mim durante toda a jornada do bootcampinho UxUi.<br>
+As atividades estão separadas por Módulos.
 <ul dir="auto">
   <li>📝 Lista de Atividades.<a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/Organizacao/ListaAtividades.md"> Acessar </a></li>
 </ul>
 
   
 <h2 dir="auto"> 🔗 Materiais extras </h2>
+Este área é reservada para os Materiais Extras, Disponibilizado com 💛por, <a href="//maiane.com.br/sobre-mim/"> <strong>  Maiane Gabriele. </strong></a>
+Os materiais estão separadas por Módulos.
 <ul dir="auto">
   <li> 🔗 Materiais extras.<a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/Organizacao/MaterialExtra.md "> Acessar </a></li>
 </ul>
