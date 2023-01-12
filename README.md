@@ -135,8 +135,21 @@ Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
   - Utilizar componetização.<br>
   - Manter acessibilidade e padrões entre as telas.<br>
   - Se preciso, aumentar ou alterar cores/títulos/estilos do seu projeto. <br>
+   <li>📱 Desafio de social </li>
+  - Compartilhar nas redes sociais a resposta para à pergunta: Design de interface (UI Design) é só “telinha bonita”? Sim? Não? Por quê?.<br>
+  - Compartilhar um pouco sobre o conhecimento em tipografia, usabilidade e acessibilidade.<br> 
 </ul>
-  
+<h3 dir="auto"> 🔶 Módulo 6 | Atividades 6.1 </h3>
+<ul dir="auto">
+  <li>🐮  Desafio do Alfred </li>
+  - Criar todas as telas que forem necessárias para o projeto.<br>
+  - Utilizar componetização.<br>
+  - Manter acessibilidade e padrões entre as telas.<br>
+  - Se preciso, aumentar ou alterar cores/títulos/estilos do seu projeto. <br>
+   <li>📱 Desafio de social </li>
+  - Compartilhar nas redes sociais a resposta para à pergunta: Design de interface (UI Design) é só “telinha bonita”? Sim? Não? Por quê?.<br>
+  - Compartilhar um pouco sobre o conhecimento em tipografia, usabilidade e acessibilidade.<br> 
+</ul>
   
 <h2 dir="auto"> 🔗 Materiais extras </h2>
 <ul dir="auto">
