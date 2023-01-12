@@ -1,3 +1,7 @@
+Este área é reservada para os Materiais Extras, Disponibilizado com 💛por, <a href="//maiane.com.br/sobre-mim/"> <strong>  Maiane Gabriele. </strong></a>
+Os materiais estão separadas por Módulos.
+
+
 <h2 dir="auto"> 🔗 Materiais extras </h2>
 <h3 dir="auto"> 🔶 Módulo 1 | Material Extra 1.1 </h3>
 <ul dir="auto">
