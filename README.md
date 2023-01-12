@@ -34,7 +34,7 @@ As atividades estão separadas por Módulos.
 
   
 <h2 dir="auto"> 🔗 Materiais extras </h2>
-Este área é reservada para os Materiais Extras, Disponibilizado com 💛por, <a href="//maiane.com.br/sobre-mim/"> <strong>  Maiane Gabriele. </strong></a><br>
+Este área é reservada para os Materiais Extras, Disponibilizado por,  Maiane Gabriele. </strong></a><br>
 Os materiais estão separadas por Módulos.
 <ul dir="auto">
   <li> 🔗 Materiais extras.<a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/Organizacao/MaterialExtra.md "> Acessar </a></li>
@@ -49,7 +49,7 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
 
 <p dir="auto">
 <em>
-  🔶 BootcampinhoUiUx Disponibilizado por, Maiane Gabriele. </strong></a>
+  🔶 BootcampinhoUiUx Disponibilizado com 💛por, <a href="//maiane.com.br/sobre-mim/"> <strong> Maiane Gabriele. </strong></a>
 </em>
 <br>
 <em>
