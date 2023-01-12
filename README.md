@@ -47,7 +47,7 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
 
 <p dir="auto">
 <em>
-  🔶 Projeto desenvolvido utilizando a ajuda e os conhecimentos da Product Designer (UI/UX), 
+  🔶 BootcampinhoUiUx Disponibilizado com 💛por, 
   <a href="//maiane.com.br/sobre-mim/"> <strong>  Maiane Gabriele. </strong></a>
 </em>
 <br>
@@ -56,4 +56,5 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
   <a href="//lnkd.in/d2Eke74Y"> <strong>  BootcampinhoUiUx.  </strong></a>
 </em>
 </p>
+
 
