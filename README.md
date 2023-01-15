@@ -15,14 +15,14 @@
 <h2 dir="auto"> 🚦 Guia </h2>
 Estes são os modulos trabalhados durante o BootcampinhoUiUx.<br>
 <ul dir="auto">
-  <li>Módulo 1 – Apresentação do Bootcampinho UI/UX Design</li>
-  <li>Módulo 2 – Começando um projeto.<a href="https://"> Acessar </a></li>
-  <li>Módulo 3 – Descoberta (Discovery).<a href="https://"> Acessar </a></li>
-  <li>Módulo 4 – Definição (Define).<a href="https://"> Acessar </a></li>
-  <li>Módulo 5 – Ideação (Ideate).<a href="https://"> Acessar </a></li>
-  <li>Módulo 6 – Prototipação (Prototype).<a href="https://"> Acessar </a></li>
-  <li>Módulo 7 – Testes.<a href="https://"> Acessar </a></li>
-  <li>Módulo 8 – Finalização.<a href="https://"> Acessar </a></li>
+  <li>Módulo 1 – Apresentação do Bootcampinho UI/UX Design.</li>
+  <li>Módulo 2 – Começando um projeto.</li>
+  <li>Módulo 3 – Descoberta (Discovery).</li>
+  <li>Módulo 4 – Definição (Define).</li>
+  <li>Módulo 5 – Ideação (Ideate).</li>
+  <li>Módulo 6 – Prototipação (Prototype).</li>
+  <li>Módulo 7 – Testes.</li>
+  <li>Módulo 8 – Finalização.</li>
 </ul>
 
 <h2 dir="auto"> 📝 Lista de Atividades </h2>
@@ -31,16 +31,6 @@ As atividades estão separadas por Módulos.
 <ul dir="auto">
   <li>📝 Lista de Atividades.<a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/Organizacao/ListaAtividades.md"> Acessar </a></li>
 </ul>
-<ul dir="auto">
-  <li>Atividades Módulo 1 <a href="https://"> Acessar </a></li>
-  <li>Atividades Módulo 2 <a href="https://"> Acessar </a></li>
-  <li>Atividades Módulo 3 <a href="https://"> Acessar </a></li>
-  <li>Atividades Módulo 4 <a href="https://"> Acessar </a></li>
-  <li>Atividades Módulo 5 <a href="https://"> Acessar </a></li>
-  <li>Atividades Módulo 6 <a href="https://"> Acessar </a></li>
-  <li>Atividades Módulo 7 <a href="https://"> Acessar </a></li>
-  <li>Atividades Módulo 8 <a href="https://"> Acessar </a></li>
-</ul>
 
 <h2 dir="auto"> 🔗 Materiais Extras </h2>
 Esta área é reservada para os Materiais Extras, Disponibilizado por,  Maiane Gabriele. </strong></a><br>
@@ -48,16 +38,7 @@ Os materiais estão separadas por Módulos.
 <ul dir="auto">
   <li> 🔗 Materiais extras.<a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/Organizacao/MaterialExtra.md "> Acessar </a></li>
 </ul>
-<ul dir="auto">
-  <li>Material Extra - Módulo 1 <a href="https://"> Acessar </a></li>
-  <li>Material Extra - Módulo 2 <a href="https://"> Acessar </a></li>
-  <li>Material Extra - Módulo 3 <a href="https://"> Acessar </a></li>
-  <li>Material Extra - Módulo 4 <a href="https://"> Acessar </a></li>
-  <li>Material Extra - Módulo 5 <a href="https://"> Acessar </a></li>
-  <li>Material Extra - Módulo 6 <a href="https://"> Acessar </a></li>
-  <li>Material Extra - Módulo 7 <a href="https://"> Acessar </a></li>
-  <li>Material Extra - Módulo 8 <a href="https://"> Acessar </a></li>
-</ul>
+
 
 <h2 dir="auto"> 🚩 Projeto Final </h2>
 Esta área é reservada para o projeto final desenvolvido, utilizando as habilidades adquiridas ao longo da jornada.  </strong></a><br>
@@ -65,13 +46,7 @@ Essas são as etapas que segui durante o andamento do proejto.
 <ul dir="auto">
   <li> 🚩 Projeto Final.<a href="https://"> Acessar </a></li>
 </ul>
-<ul dir="auto">
-  <li>Inicio do projeto.<a href="https://"> Acessar </a></li>
-  <li>Descoberta (Discovery).<a href="https://"> Acessar </a></li>
-  <li>Definição (Define).<a href="https://"> Acessar </a></li>
-  <li>Ideação (Ideate).<a href="https://"> Acessar </a></li>
-  <li>Prototipação (Prototype).<a href="https://"> Acessar </a></li>
-</ul>
+
 
 
 
