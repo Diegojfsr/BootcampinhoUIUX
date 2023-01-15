@@ -13,7 +13,7 @@
   O Bootcampinho UI/UX Design tem como objetivo, ser um ponto de partida e ajudar os primeiros passos de quer aprender UI/UX Design de forma gratuita. Além de ajudar na criação de um projeto de UI/UX Design do início ao fim.
 
 <h2 dir="auto"> 🚦 Guia </h2>
-Estes são os modulos trabalhados durnate o BootcampinhoUiUx.<br>
+Estes são os modulos trabalhados durante o BootcampinhoUiUx.<br>
 <ul dir="auto">
   <li>Módulo 1 – Apresentação do Bootcampinho UI/UX Design</li>
   <li>Módulo 2 – Começando um projeto.<a href="https://"> Acessar </a></li>
