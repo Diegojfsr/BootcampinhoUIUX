@@ -32,35 +32,36 @@ As atividades estão separadas por Módulos.
   <li>📝 Lista de Atividades.<a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/Organizacao/ListaAtividades.md"> Acessar </a></li>
 </ul>
 <ul dir="auto">
-  <li>Módulo 1 – Apresentação do Bootcampinho UI/UX Design.<a href="https://"> Acessar </a></li>
-  <li>Módulo 2 – Começando um projeto.<a href="https://"> Acessar </a></li>
-  <li>Módulo 3 – Descoberta (Discovery).<a href="https://"> Acessar </a></li>
-  <li>Módulo 4 – Definição (Define).<a href="https://"> Acessar </a></li>
-  <li>Módulo 5 – Ideação (Ideate).<a href="https://"> Acessar </a></li>
-  <li>Módulo 6 – Prototipação (Prototype).<a href="https://"> Acessar </a></li>
-  <li>Módulo 7 – Testes.<a href="https://"> Acessar </a></li>
-  <li>Módulo 8 – Finalização.<a href="https://"> Acessar </a></li>
+  <li>Atividades Módulo 1 <a href="https://"> Acessar </a></li>
+  <li>Atividades Módulo 2 <a href="https://"> Acessar </a></li>
+  <li>Atividades Módulo 3 <a href="https://"> Acessar </a></li>
+  <li>Atividades Módulo 4 <a href="https://"> Acessar </a></li>
+  <li>Atividades Módulo 5 <a href="https://"> Acessar </a></li>
+  <li>Atividades Módulo 6 <a href="https://"> Acessar </a></li>
+  <li>Atividades Módulo 7 <a href="https://"> Acessar </a></li>
+  <li>Atividades Módulo 8 <a href="https://"> Acessar </a></li>
 </ul>
 
-<h2 dir="auto"> 🔗 Materiais extras </h2>
+<h2 dir="auto"> 🔗 Materiais Extras </h2>
 Esta área é reservada para os Materiais Extras, Disponibilizado por,  Maiane Gabriele. </strong></a><br>
 Os materiais estão separadas por Módulos.
 <ul dir="auto">
   <li> 🔗 Materiais extras.<a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/Organizacao/MaterialExtra.md "> Acessar </a></li>
 </ul>
 <ul dir="auto">
-  <li>Módulo 1 – Apresentação do Bootcampinho UI/UX Design.<a href="https://"> Acessar </a></li>
-  <li>Módulo 2 – Começando um projeto.<a href="https://"> Acessar </a></li>
-  <li>Módulo 3 – Descoberta (Discovery).<a href="https://"> Acessar </a></li>
-  <li>Módulo 4 – Definição (Define).<a href="https://"> Acessar </a></li>
-  <li>Módulo 5 – Ideação (Ideate).<a href="https://"> Acessar </a></li>
-  <li>Módulo 6 – Prototipação (Prototype).<a href="https://"> Acessar </a></li>
-  <li>Módulo 7 – Testes.<a href="https://"> Acessar </a></li>
-  <li>Módulo 8 – Finalização.<a href="https://"> Acessar </a></li>
+  <li>Material Extra - Módulo 1 <a href="https://"> Acessar </a></li>
+  <li>Material Extra - Módulo 2 <a href="https://"> Acessar </a></li>
+  <li>Material Extra - Módulo 3 <a href="https://"> Acessar </a></li>
+  <li>Material Extra - Módulo 4 <a href="https://"> Acessar </a></li>
+  <li>Material Extra - Módulo 5 <a href="https://"> Acessar </a></li>
+  <li>Material Extra - Módulo 6 <a href="https://"> Acessar </a></li>
+  <li>Material Extra - Módulo 7 <a href="https://"> Acessar </a></li>
+  <li>Material Extra - Módulo 8 <a href="https://"> Acessar </a></li>
 </ul>
 
 <h2 dir="auto"> 🚩 Projeto Final </h2>
 Esta área é reservada para o projeto final desenvolvido, utilizando as habilidades adquiridas ao longo da jornada.  </strong></a><br>
+Essas são as etapas que segui durante o andamento do proejto.
 <ul dir="auto">
   <li> 🚩 Projeto Final.<a href="https://"> Acessar </a></li>
 </ul>
