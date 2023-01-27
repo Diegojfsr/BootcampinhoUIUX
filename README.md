@@ -65,6 +65,7 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
   🔶 Página oficial do curso, grade das aulas e materiais extras: 
   <a href="//lnkd.in/d2Eke74Y"> <strong>  BootcampinhoUiUx.  </strong></a>
 </em>
+  
 </p>
 
 
