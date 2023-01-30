@@ -12,6 +12,7 @@
   <li><a href="https://sheisacreative.notion.site/Briefing-do-projeto-d6788e4002e64a5da3512d16aea7c191"> Briefing </a></li> 
   <li><a href="https://www.notion.so/sheisacreative/Briefing-3cb90df3398a42ceb8eb3b6e6fb9646d"> Exemplo de Briefing preenchido </a></li> 
 
+
 <h3> Artigos </h3>
   <li><a href="https://uxdesign.cc/dont-design-anything-until-you-get-answers-to-these-3-questions-a12cc18bfea3"> Don’t design anything until you get answers to these 3 questions (em inglês)</a></li>
   <li><a href="https://brasil.uxdesign.cc/matriz-impacto-esforco-amor-c76f76a22760"> Matriz impacto x esforço x amor: como priorizar tarefas sem prejudicar pessoas</a></li>

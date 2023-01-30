@@ -12,4 +12,5 @@
   <li><a href="https://www.youtube.com/watch?v=1ZKxhQmc0gA"> Qual a diferença entre UI e UX Design? </a></li>
   <li><a href="https://www.youtube.com/watch?v=hOQ4AhPQKd0"> Vale a pena migrar para UI/UX Design? </a></li>
   <li><a href="https://www.youtube.com/watch?v=LhvwVhnf8vE"> 4 dicas para entrar no mercado de UI/UX Design </a></li>
+
 </ul>
