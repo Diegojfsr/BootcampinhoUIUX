@@ -37,7 +37,7 @@ As atividades estão separadas por Módulos.
 Esta área é reservada para os Materiais Extras, Disponibilizado por,  Maiane Gabriele. </strong></a><br>
 Os materiais estão separadas por Módulos.
 <ul dir="auto">
-  <li> 🔗 Materiais extras.<a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/Organizacao/MaterialExtra.md "> Acessar </a></li>
+  <li> 🔗 Materiais extras.<a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/MaterialExtra/READEME.md"> Acessar </a></li>
 </ul>
 
 
