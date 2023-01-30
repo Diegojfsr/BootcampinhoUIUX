@@ -6,49 +6,49 @@ As atividades estão separadas por Módulos.
 
 <ul dir="auto">
 <h3> 🔶 Módulo 1 </h3>
-  <li> Material Extra 1.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo1.1.md"> Acessar </a></li>
-  <li> Material Extra 1.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo1.2.md"> Acessar </a></li>
+  <li> Atividades 1.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo1.1.md"> Acessar </a></li>
+  <li> Atividades1.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo1.2.md"> Acessar </a></li>
 </ul>
 <ul dir="auto">
 <h3> 🔶 Módulo 2 </h3>
-  <li> Material Extra 2.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo2.1.md"> Acessar </a></li>
-  <li> Material Extra 2.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo2.2.md"> Acessar </a></li>
+  <li> Atividades 2.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo2.1.md"> Acessar </a></li>
+  <li> Atividades 2.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo2.2.md"> Acessar </a></li>
 </ul>
 <ul dir="auto">
 <h3> 🔶 Módulo 3 </h3>
-  <li> Material Extra 3.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo3.1.md"> Acessar </a></li>
-  <li> Material Extra 3.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo3.2.md"> Acessar </a></li>
+  <li> Atividades 3.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo3.1.md"> Acessar </a></li>
+  <li> Atividades 3.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo3.2.md"> Acessar </a></li>
 </ul>
 
 <ul dir="auto">
 <h3> 🔶 Módulo 4 </h3>
-  <li> Material Extra 4.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo4.1.md"> Acessar </a></li>
-  <li> Material Extra 4.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo4.2.md"> Acessar </a></li>
+  <li> Atividades 4.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo4.1.md"> Acessar </a></li>
+  <li> Atividades 4.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo4.2.md"> Acessar </a></li>
 </ul>
 
 <ul dir="auto">
 <h3> 🔶 Módulo 5 </h3>
-  <li> Material Extra 5.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo5.1.md"> Acessar </a></li>
-  <li> Material Extra 5.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo5.2.md"> Acessar </a></li>
+  <li> Atividades 5.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo5.1.md"> Acessar </a></li>
+  <li> Atividades 5.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo5.2.md"> Acessar </a></li>
 </ul>
 
 <ul dir="auto">
 <h3> 🔶 Módulo 6 </h3>
-  <li> Material Extra 6.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo6.1.md"> Acessar </a></li>
-  <li> Material Extra 6.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo6.2.md"> Acessar </a></li>
-  <li> Material Extra 6.3 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo6.3.md"> Acessar </a></li>
-  <li> Material Extra 6.4 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo6.4.md"> Acessar </a></li>
-  <li> Material Extra 6.5 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo6.5.md"> Acessar </a></li>i>
+  <li> Atividades 6.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo6.1.md"> Acessar </a></li>
+  <li> Atividades 6.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo6.2.md"> Acessar </a></li>
+  <li> Atividades 6.3 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo6.3.md"> Acessar </a></li>
+  <li> Atividades 6.4 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo6.4.md"> Acessar </a></li>
+  <li> Atividades 6.5 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo6.5.md"> Acessar </a></li>i>
 </ul>
 
 <ul dir="auto">
 <h3> 🔶 Módulo 7 </h3>
-  <li> Material Extra 7.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo7.1.md"> Acessar </a></li>
-  <li> Material Extra 7.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo7.2.md"> Acessar </a></li>
+  <li> Atividadesa 7.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo7.1.md"> Acessar </a></li>
+  <li> Atividades 7.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo7.2.md"> Acessar </a></li>
 </ul>
 
 <ul dir="auto">
 <h3> 🔶 Módulo 8 </h3>
-  <li> Material Extra 8.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo8.1.md"> Acessar </a></li>
+  <li> Atividades 8.1 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo8.1.md"> Acessar </a></li>
 
 </ul>
