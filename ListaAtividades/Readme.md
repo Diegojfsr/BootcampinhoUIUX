@@ -38,7 +38,7 @@ As atividades estão separadas por Módulos.
   <li> Atividades 6.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo6.2.md"> Acessar </a></li>
   <li> Atividades 6.3 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo6.3.md"> Acessar </a></li>
   <li> Atividades 6.4 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo6.4.md"> Acessar </a></li>
-  <li> Atividades 6.5 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo6.5.md"> Acessar </a></li>i>
+  <li> Atividades 6.5 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/Modulo6.5.md"> Acessar </a></li>
 </ul>
 
 <ul dir="auto">
