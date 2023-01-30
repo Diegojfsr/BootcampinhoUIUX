@@ -38,7 +38,7 @@ Os materiais estão separadas por Módulos.
   <li> Material Extra 6.2 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/MaterialExtra/Modulo6.2.md"> Acessar </a></li>
   <li> Material Extra 6.3 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/MaterialExtra/Modulo6.3.md"> Acessar </a></li>
   <li> Material Extra 6.4 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/MaterialExtra/Modulo6.4.md"> Acessar </a></li>
-  <li> Material Extra 6.5 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/MaterialExtra/Modulo6.5.md"> Acessar </a></li>i>
+  <li> Material Extra 6.5 <a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/MaterialExtra/Modulo6.5.md"> Acessar </a></li>
 </ul>
 
 <ul dir="auto">
