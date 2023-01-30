@@ -30,7 +30,7 @@ Estes são os modulos trabalhados durante o BootcampinhoUiUx.<br>
 Esta área é reservada para as atividades desenvolvidas por mim durante toda a jornada do bootcampinho UxUi.<br>
 As atividades estão separadas por Módulos.
 <ul dir="auto">
-  <li>📝 Lista de Atividades.<a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/Organizacao/ListaAtividades.md"> Acessar </a></li>
+  <li>📝 Lista de Atividades.<a href="https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/ListaAtividades/ListaAtividades.md"> Acessar </a></li>
 </ul>
 
 <h2 dir="auto"> 🔗 Materiais Extras </h2>
