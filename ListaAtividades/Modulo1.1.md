@@ -1,9 +1,9 @@
 
 
 <h2 dir="auto"> 📝 Lista de Atividades </h2>
-
+<!--
 ![](https://github.com/Diegojfsr/BootcampinhoUIUX/blob/main/Desafio%20do%20Alfred%20Capas/Desafio%20do%20Alfred%201.1.jpg)
-
+-->
 
 <h3 dir="auto"> 🔶 Módulo 1 | Atividades 1.1 </h3>
 <ul dir="auto">
