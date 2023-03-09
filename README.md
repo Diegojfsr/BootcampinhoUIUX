@@ -47,7 +47,7 @@ Os materiais estão separadas por Módulos.
 
 <h2 dir="auto"> 🚩 Projeto Final </h2>
 Esta área é reservada para o projeto final desenvolvido, utilizando as habilidades adquiridas ao longo da jornada.  </strong></a><br>
-Essas são as etapas que segui durante o andamento do proejto.
+Essas são as etapas que segui durante o andamento do projeto.
 <ul dir="auto">
   <li> 🚩 Projeto Final.<a href="https://github.com/Diegojfsr/The_Space_of_Developers/blob/main/README.md"> Acessar </a></li>
 </ul>
